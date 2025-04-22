@@ -2,6 +2,7 @@ import TechNavbar from "@/components/TechNavbar";
 import HeroBanner from "@/components/HeroBanner";
 import CategorySection from "@/components/CategorySection";
 import ProductCard, { ProductProps } from "@/components/ProductCard";
+import { LaptopIcon } from "lucide-react";
 
 const featuredProducts: ProductProps[] = [
   {
